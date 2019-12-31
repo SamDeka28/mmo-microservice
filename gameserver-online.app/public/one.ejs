@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Chat Lane</title>
+  </head>
+  <body>
+    <button id="hello">sync</button>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"></script>
+  <script>
+    var socket = io.connect("http://localhost:4019", {
+      transports: ["websocket"],
+      query: {
+        authToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNWRjM2FiZmFlNjIwMDIxNzUwZTNmZGE2IiwiZW1haWwiOm51bGwsInVzZXJfbmFtZSI6IkxSR1VFU1QtMzcxIiwiaWF0IjoxNTc1ODc1MTI3fQ.FWFEfst7gjRaBOigK_miy-ZSAgu64Johpo2bGecTSpk"
+      }
+    });
+
+      socket.emit(
+        "join",
+        {
+          playerId: "5dc3abfae620021750e3fda6",
+          room_type : "open"
+        },
+        function(MEJOIN) {
+          console.log({MEJOIN});
+        }
+      );
+
+      let hello= document.getElementById("hello");
+      hello.addEventListener("click",function(){
+        console.log("Hello")
+          socket.emit("SyncPosition",{
+                  playerId: "5dc3abfae620021750e3fda6",
+                  posX : 5
+                  , posZ :0, rotation:0, speed:0, direction:0, lerpTime:0
+                },function(sync){console.log({sync})})
+      })
+      
+    
+
+    socket.on("PlayerJoined", function(PlayerJoined) {
+      console.log({ PlayerJoined });
+    });
+
+    socket.on("AiPlayerJoined", function(AiPlayerJoined) {
+      console.log({ AiPlayerJoined });
+    });
+  </script>
+</html>

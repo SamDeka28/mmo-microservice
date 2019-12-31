@@ -1,0 +1,8300 @@
+{
+  "data": [
+    {
+      "speed": 0.4086045026779175,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 7.108706474304199,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.6502512693405151,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 7.958242893218994,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.7931602001190186,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 9.098103523254395,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.8776759505271912,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 10.4096097946167,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 11.903780937194825,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 13.463717460632325,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 15.023653984069825,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 16.583589553833009,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2999999523162842,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 18.287548065185548,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8199996948242188,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 20.736724853515626,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 23.813573837280275,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 26.933645248413087,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 30.0537166595459,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 33.1737174987793,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 36.2935905456543,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 39.4134635925293,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 42.5333366394043,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 45.6532096862793,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 48.7730827331543,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 51.893043518066409,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 55.01301574707031,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 58.13298797607422,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 61.252960205078128,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 64.3729476928711,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 67.4930191040039,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 70.61309051513672,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 73.73316192626953,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 76.85323333740235,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 79.97330474853516,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 83.09337615966797,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 86.21344757080078,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.640000343322754,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 89.12825775146485,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.1200003623962403,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 91.26544952392578,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 92.84339904785156,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 8.529998779296875,
+      "posZ": 94.40333557128906,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 8.564146995544434,
+      "posZ": 95.96269226074219,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2999999523162842,
+      "direction": 0.0,
+      "posX": 8.635194778442383,
+      "posZ": 97.66517639160156,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8199996948242188,
+      "direction": 0.0,
+      "posX": 8.737310409545899,
+      "posZ": 100.11224365234375,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8600001335144044,
+      "direction": 0.0,
+      "posX": 8.864226341247559,
+      "posZ": 103.1528091430664,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3400003910064698,
+      "direction": 0.3686400353908539,
+      "posX": 9.047414779663086,
+      "posZ": 105.62478637695313,
+      "rotation": 9,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2600003480911255,
+      "direction": 0.1275424212217331,
+      "posX": 9.509723663330079,
+      "posZ": 107.3909912109375,
+      "rotation": 18,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.7800002098083497,
+      "direction": 0.0,
+      "posX": 10.30189323425293,
+      "posZ": 109.64247131347656,
+      "rotation": 19,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 11.321207046508789,
+      "posZ": 112.52139282226563,
+      "rotation": 19,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 12.362619400024414,
+      "posZ": 115.46253967285156,
+      "rotation": 19,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.6800003051757813,
+      "direction": -0.21999996900558473,
+      "posX": 13.338202476501465,
+      "posZ": 118.25370025634766,
+      "rotation": 17,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.1600003242492676,
+      "direction": -0.19199997186660767,
+      "posX": 13.803208351135254,
+      "posZ": 120.39981842041016,
+      "rotation": 6,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 13.927831649780274,
+      "posZ": 121.98823547363281,
+      "rotation": 3,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 14.020111083984375,
+      "posZ": 123.54548645019531,
+      "rotation": 3,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 14.09019660949707,
+      "posZ": 125.10380554199219,
+      "rotation": 1,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.14116831123828889,
+      "posX": 14.075716018676758,
+      "posZ": 126.66284942626953,
+      "rotation": 355,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 13.929557800292969,
+      "posZ": 128.21592712402345,
+      "rotation": 354,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0199999809265137,
+      "direction": 0.0,
+      "posX": 13.773126602172852,
+      "posZ": 129.76913452148438,
+      "rotation": 354,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5399999618530274,
+      "direction": 0.0,
+      "posX": 13.571762084960938,
+      "posZ": 131.77142333984376,
+      "rotation": 354,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 13.289901733398438,
+      "posZ": 134.57369995117188,
+      "rotation": 354,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 12.977676391601563,
+      "posZ": 137.6781005859375,
+      "rotation": 354,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 12.665451049804688,
+      "posZ": 140.78250122070313,
+      "rotation": 354,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5400004386901856,
+      "direction": 0.0,
+      "posX": 12.386367797851563,
+      "posZ": 143.55731201171876,
+      "rotation": 354,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0200003385543824,
+      "direction": 0.0,
+      "posX": 12.188119888305664,
+      "posZ": 145.528564453125,
+      "rotation": 354,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4800000190734864,
+      "direction": 0.0,
+      "posX": 11.995981216430664,
+      "posZ": 147.43890380859376,
+      "rotation": 354,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.399999976158142,
+      "direction": 0.11890850216150284,
+      "posX": 11.761002540588379,
+      "posZ": 149.86949157714845,
+      "rotation": 355,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 11.658642768859864,
+      "posZ": 151.65452575683595,
+      "rotation": 357,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.019999999552965165,
+      "posX": 11.637482643127442,
+      "posZ": 153.2137451171875,
+      "rotation": 1,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.19199997186660767,
+      "posX": 11.703181266784668,
+      "posZ": 154.77224731445313,
+      "rotation": 4,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.12023156881332398,
+      "posX": 11.88576889038086,
+      "posZ": 156.32106018066407,
+      "rotation": 9,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 12.157858848571778,
+      "posZ": 157.8570098876953,
+      "rotation": 10,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0199999809265137,
+      "direction": 0.0,
+      "posX": 12.4429292678833,
+      "posZ": 159.39193725585938,
+      "rotation": 10,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5399999618530274,
+      "direction": 0.0,
+      "posX": 12.810628890991211,
+      "posZ": 161.37046813964845,
+      "rotation": 10,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 13.32520866394043,
+      "posZ": 164.13946533203126,
+      "rotation": 10,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.700000286102295,
+      "direction": 0.21999996900558473,
+      "posX": 13.880799293518067,
+      "posZ": 167.0630645751953,
+      "rotation": 12,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.1800003051757813,
+      "direction": 0.7399998307228088,
+      "posX": 14.619926452636719,
+      "posZ": 169.15757751464845,
+      "rotation": 31,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.6249637007713318,
+      "posX": 15.784710884094239,
+      "posZ": 170.22259521484376,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.21622546017169953,
+      "posX": 17.271421432495118,
+      "posZ": 170.6804962158203,
+      "rotation": 79,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 18.81584930419922,
+      "posZ": 170.89691162109376,
+      "rotation": 83,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 20.36547088623047,
+      "posZ": 171.07504272460938,
+      "rotation": 83,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.16620813310146333,
+      "posX": 21.909101486206056,
+      "posZ": 171.295654296875,
+      "rotation": 78,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 23.426454544067384,
+      "posZ": 171.65728759765626,
+      "rotation": 75,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.340000033378601,
+      "direction": 0.0,
+      "posX": 25.11813735961914,
+      "posZ": 172.07955932617188,
+      "rotation": 75,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.859999656677246,
+      "direction": 0.0,
+      "posX": 27.554962158203126,
+      "posZ": 172.6878662109375,
+      "rotation": 75,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.7800002098083497,
+      "direction": 0.0,
+      "posX": 30.480749130249025,
+      "posZ": 173.4183349609375,
+      "rotation": 75,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2600003480911255,
+      "direction": 0.0,
+      "posX": 32.77756881713867,
+      "posZ": 173.9388885498047,
+      "rotation": 79,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.580000400543213,
+      "direction": 0.0,
+      "posX": 34.83981704711914,
+      "posZ": 174.32879638671876,
+      "rotation": 79,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.820000171661377,
+      "direction": 0.03999999910593033,
+      "posX": 37.60952377319336,
+      "posZ": 174.85240173339845,
+      "rotation": 79,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3000004291534424,
+      "direction": 0.09999999403953552,
+      "posX": 40.00421142578125,
+      "posZ": 175.17401123046876,
+      "rotation": 86,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3000004291534424,
+      "direction": 0.0,
+      "posX": 41.825321197509769,
+      "posZ": 175.29623413085938,
+      "rotation": 86,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.820000171661377,
+      "direction": 0.0,
+      "posX": 44.269020080566409,
+      "posZ": 175.4602508544922,
+      "rotation": 86,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 47.3390007019043,
+      "posZ": 175.66639709472657,
+      "rotation": 86,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 50.45212936401367,
+      "posZ": 175.87547302246095,
+      "rotation": 86,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 53.56525802612305,
+      "posZ": 176.0845489501953,
+      "rotation": 86,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 56.67838668823242,
+      "posZ": 176.2936248779297,
+      "rotation": 86,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 59.7915153503418,
+      "posZ": 176.50270080566407,
+      "rotation": 86,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8400001525878907,
+      "direction": 0.0,
+      "posX": 62.86150360107422,
+      "posZ": 176.70884704589845,
+      "rotation": 86,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.320000410079956,
+      "direction": 0.24461179971694947,
+      "posX": 65.30738830566406,
+      "posZ": 176.81533813476563,
+      "rotation": 91,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4800004959106446,
+      "direction": 0.0,
+      "posX": 67.30391693115235,
+      "posZ": 176.63812255859376,
+      "rotation": 96,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 70.01371765136719,
+      "posZ": 176.3066864013672,
+      "rotation": 96,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9800000190734864,
+      "direction": 0.0,
+      "posX": 73.10939025878906,
+      "posZ": 175.92796325683595,
+      "rotation": 96,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4600005149841309,
+      "direction": 0.0,
+      "posX": 75.75725555419922,
+      "posZ": 175.60411071777345,
+      "rotation": 96,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 77.60707092285156,
+      "posZ": 175.37789916992188,
+      "rotation": 96,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.4200000464916229,
+      "posX": 79.14800262451172,
+      "posZ": 175.14076232910157,
+      "rotation": 103,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.059999942779541,
+      "direction": 0.23868133127689362,
+      "posX": 80.59381866455078,
+      "posZ": 174.54917907714845,
+      "rotation": 119,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5799999237060547,
+      "direction": 0.0,
+      "posX": 82.34312438964844,
+      "posZ": 173.43495178222657,
+      "rotation": 124,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4200000762939454,
+      "direction": 0.15999998152256013,
+      "posX": 84.42295837402344,
+      "posZ": 172.0141143798828,
+      "rotation": 125,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.4383443593978882,
+      "posX": 85.78398132324219,
+      "posZ": 170.82664489746095,
+      "rotation": 140,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.15165874361991883,
+      "posX": 86.63996887207031,
+      "posZ": 169.52503967285157,
+      "rotation": 151,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.13999998569488526,
+      "posX": 87.35424041748047,
+      "posZ": 168.13827514648438,
+      "rotation": 153,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.39075273275375368,
+      "posX": 87.89089965820313,
+      "posZ": 166.67823791503907,
+      "rotation": 168,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.13519296050071717,
+      "posX": 88.06696319580078,
+      "posZ": 165.12994384765626,
+      "rotation": 177,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 88.10440063476563,
+      "posZ": 163.57054138183595,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 88.1357421875,
+      "posZ": 162.01100158691407,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 88.16708374023438,
+      "posZ": 160.4514617919922,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2599999904632569,
+      "direction": 0.0,
+      "posX": 88.20064544677735,
+      "posZ": 158.78265380859376,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.7799997329711915,
+      "direction": 0.0,
+      "posX": 88.24867248535156,
+      "posZ": 156.39633178710938,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 88.31005859375,
+      "posZ": 153.3428955078125,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 88.37274169921875,
+      "posZ": 150.22341918945313,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 88.4354248046875,
+      "posZ": 147.10394287109376,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 88.49810791015625,
+      "posZ": 143.98446655273438,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8600001335144044,
+      "direction": 0.05999999865889549,
+      "posX": 88.55990600585938,
+      "posZ": 140.8986053466797,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5000004768371583,
+      "direction": 0.10551272332668305,
+      "posX": 88.47960662841797,
+      "posZ": 138.39682006835938,
+      "rotation": 184,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 88.22794342041016,
+      "posZ": 135.64833068847657,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 87.94269561767578,
+      "posZ": 132.5415496826172,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 87.6574478149414,
+      "posZ": 129.4347686767578,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 87.37220001220703,
+      "posZ": 126.327880859375,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 87.08695220947266,
+      "posZ": 123.22090148925781,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 86.80170440673828,
+      "posZ": 120.11392211914063,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 86.5164566040039,
+      "posZ": 117.00694274902344,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 86.23120880126953,
+      "posZ": 113.89996337890625,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 85.94596099853516,
+      "posZ": 110.79298400878906,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 85.66071319580078,
+      "posZ": 107.68600463867188,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 85.3754653930664,
+      "posZ": 104.57902526855469,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 85.09021759033203,
+      "posZ": 101.4720458984375,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 84.80496978759766,
+      "posZ": 98.36506652832031,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 84.51972198486328,
+      "posZ": 95.25808715820313,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.760000228881836,
+      "direction": -0.13999998569488526,
+      "posX": 84.24613189697266,
+      "posZ": 92.24407196044922,
+      "rotation": 184,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2400003671646119,
+      "direction": 0.0,
+      "posX": 84.17603302001953,
+      "posZ": 89.92149353027344,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.100000023841858,
+      "direction": 0.0,
+      "posX": 84.17623138427735,
+      "posZ": 88.26432037353516,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.619999885559082,
+      "direction": 0.0,
+      "posX": 84.17642974853516,
+      "posZ": 86.12712860107422,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 84.17680358886719,
+      "posZ": 83.21231842041016,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 84.17720031738281,
+      "posZ": 80.09224700927735,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5000004768371583,
+      "direction": 0.0,
+      "posX": 84.17752075195313,
+      "posZ": 77.36225891113281,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.17771911621094,
+      "posZ": 75.44226837158203,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.18964385986328,
+      "posZ": 73.88240051269531,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.23368072509766,
+      "posZ": 72.32305908203125,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.27771759033203,
+      "posZ": 70.76371765136719,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.3217544555664,
+      "posZ": 69.20437622070313,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.36579132080078,
+      "posZ": 67.64503479003906,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.40982818603516,
+      "posZ": 66.085693359375,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.45386505126953,
+      "posZ": 64.52635192871094,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.4979019165039,
+      "posZ": 62.967010498046878,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.54193878173828,
+      "posZ": 61.40766906738281,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.58597564697266,
+      "posZ": 59.84832763671875,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.63001251220703,
+      "posZ": 58.28898620605469,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.6740493774414,
+      "posZ": 56.729644775390628,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.71808624267578,
+      "posZ": 55.17030334472656,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.76212310791016,
+      "posZ": 53.6109619140625,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.80615997314453,
+      "posZ": 52.05162048339844,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.8501968383789,
+      "posZ": 50.492279052734378,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.89423370361328,
+      "posZ": 48.93293762207031,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.93827056884766,
+      "posZ": 47.37359619140625,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.98230743408203,
+      "posZ": 45.81425476074219,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.0263442993164,
+      "posZ": 44.254913330078128,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.07038116455078,
+      "posZ": 42.69557189941406,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.11441802978516,
+      "posZ": 41.13623046875,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.15845489501953,
+      "posZ": 39.57688903808594,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.2024917602539,
+      "posZ": 38.017547607421878,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.24652862548828,
+      "posZ": 36.45820617675781,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.29056549072266,
+      "posZ": 34.89886474609375,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.33460235595703,
+      "posZ": 33.33952331542969,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.3786392211914,
+      "posZ": 31.780179977416993,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.42267608642578,
+      "posZ": 30.22083854675293,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.46671295166016,
+      "posZ": 28.661497116088868,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.51074981689453,
+      "posZ": 27.102155685424806,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.5547866821289,
+      "posZ": 25.542814254760743,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.59882354736328,
+      "posZ": 23.98347282409668,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.64286041259766,
+      "posZ": 22.424131393432618,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.68689727783203,
+      "posZ": 20.864789962768556,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.7309341430664,
+      "posZ": 19.305448532104493,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.77497100830078,
+      "posZ": 17.74610710144043,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.81900787353516,
+      "posZ": 16.186765670776368,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.86304473876953,
+      "posZ": 14.627424240112305,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.9070816040039,
+      "posZ": 13.068082809448243,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 85.95111846923828,
+      "posZ": 11.50874137878418,
+      "rotation": 178,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.3261491060256958,
+      "posX": 86.07536315917969,
+      "posZ": 9.955452919006348,
+      "rotation": 169,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.03999999910593033,
+      "posX": 86.47699737548828,
+      "posZ": 8.449265480041504,
+      "rotation": 161,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.21700137853622437,
+      "posX": 87.05706787109375,
+      "posZ": 7.0031819343566898,
+      "rotation": 152,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 87.83358001708985,
+      "posZ": 5.650667667388916,
+      "rotation": 148,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 88.6436996459961,
+      "posZ": 4.3174614906311039,
+      "rotation": 148,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 89.45381927490235,
+      "posZ": 2.98425555229187,
+      "rotation": 148,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 90.2639389038086,
+      "posZ": 1.651049256324768,
+      "rotation": 148,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 91.07405853271485,
+      "posZ": 0.31784307956695559,
+      "rotation": 148,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 91.8841781616211,
+      "posZ": -1.015363097190857,
+      "rotation": 148,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 92.69429779052735,
+      "posZ": -2.34856915473938,
+      "rotation": 148,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 93.5044174194336,
+      "posZ": -3.6817753314971926,
+      "rotation": 148,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.019999999552965165,
+      "posX": 94.31453704833985,
+      "posZ": -5.014981746673584,
+      "rotation": 148,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.5400000214576721,
+      "posX": 95.2093505859375,
+      "posZ": -6.289788246154785,
+      "rotation": 137,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.2018221616744995,
+      "posX": 96.40880584716797,
+      "posZ": -7.281288146972656,
+      "rotation": 123,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 97.74449920654297,
+      "posZ": -8.086435317993164,
+      "rotation": 119,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 99.09734344482422,
+      "posZ": -8.863031387329102,
+      "rotation": 119,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.1658879816532135,
+      "posX": 100.4535903930664,
+      "posZ": -9.633660316467286,
+      "rotation": 117,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 101.85382843017578,
+      "posZ": -10.321118354797364,
+      "rotation": 115,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 103.26142120361328,
+      "posZ": -10.99377155303955,
+      "rotation": 115,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 104.66901397705078,
+      "posZ": -11.666424751281739,
+      "rotation": 115,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.3400000035762787,
+      "posX": 106.08710479736328,
+      "posZ": -12.315668106079102,
+      "rotation": 110,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.18670189380645753,
+      "posX": 107.59587097167969,
+      "posZ": -12.699732780456543,
+      "rotation": 98,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.25999996066093447,
+      "posX": 109.14595031738281,
+      "posZ": -12.871625900268555,
+      "rotation": 93,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.07999999821186066,
+      "posX": 110.70455169677735,
+      "posZ": -12.84561538696289,
+      "rotation": 85,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.09784471988677979,
+      "posX": 112.25489807128906,
+      "posZ": -12.67544174194336,
+      "rotation": 81,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 113.79856872558594,
+      "posZ": -12.449703216552735,
+      "rotation": 81,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.2799999713897705,
+      "posX": 115.33993530273438,
+      "posZ": -12.209909439086914,
+      "rotation": 78,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.12013222277164459,
+      "posX": 116.83777618408203,
+      "posZ": -11.778780937194825,
+      "rotation": 70,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 118.30094146728516,
+      "posZ": -11.237556457519532,
+      "rotation": 69,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 119.7632827758789,
+      "posZ": -10.694038391113282,
+      "rotation": 69,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.1630745232105255,
+      "posX": 121.2195053100586,
+      "posZ": -10.134937286376954,
+      "rotation": 66,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 122.63190460205078,
+      "posZ": -9.472882270812989,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 124.0383071899414,
+      "posZ": -8.79784870147705,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 125.44470977783203,
+      "posZ": -8.122815132141114,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 126.85111236572266,
+      "posZ": -7.447781562805176,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 128.25143432617188,
+      "posZ": -6.760498523712158,
+      "rotation": 62,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 129.640380859375,
+      "posZ": -6.050552845001221,
+      "rotation": 62,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 131.02932739257813,
+      "posZ": -5.340607166290283,
+      "rotation": 62,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 132.41827392578126,
+      "posZ": -4.630661487579346,
+      "rotation": 62,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.10958607494831085,
+      "posX": 133.8026123046875,
+      "posZ": -3.91182279586792,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 135.16146850585938,
+      "posZ": -3.1453800201416017,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 136.49903869628907,
+      "posZ": -2.3432557582855226,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 137.8106231689453,
+      "posZ": -1.49881911277771,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 139.12220764160157,
+      "posZ": -0.6543825268745422,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 140.4337921142578,
+      "posZ": 0.19005413353443147,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 141.74537658691407,
+      "posZ": 1.0344908237457276,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 143.06275939941407,
+      "posZ": 1.8700538873672486,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 144.38108825683595,
+      "posZ": 2.7041757106781008,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 145.6994171142578,
+      "posZ": 3.538297414779663,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 147.0177459716797,
+      "posZ": 4.372419357299805,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 148.33607482910157,
+      "posZ": 5.206541061401367,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 149.65440368652345,
+      "posZ": 6.04066276550293,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 150.9727325439453,
+      "posZ": 6.874784469604492,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.05999999865889549,
+      "posX": 152.29112243652345,
+      "posZ": 7.708795547485352,
+      "rotation": 57,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 153.6266326904297,
+      "posZ": 8.514853477478028,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 154.96519470214845,
+      "posZ": 9.315848350524903,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 156.3037567138672,
+      "posZ": 10.116843223571778,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 157.64231872558595,
+      "posZ": 10.917838096618653,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 158.9808807373047,
+      "posZ": 11.718832969665528,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.03999999910593033,
+      "posX": 160.3194580078125,
+      "posZ": 12.519800186157227,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 161.6939697265625,
+      "posZ": 13.256179809570313,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 163.10037231445313,
+      "posZ": 13.93121337890625,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 164.50677490234376,
+      "posZ": 14.606246948242188,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 165.91317749023438,
+      "posZ": 15.281280517578125,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 167.319580078125,
+      "posZ": 15.956314086914063,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 168.72598266601563,
+      "posZ": 16.63134765625,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 170.13238525390626,
+      "posZ": 17.306381225585939,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 171.53445434570313,
+      "posZ": 17.98995590209961,
+      "rotation": 63,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 172.9332733154297,
+      "posZ": 18.680320739746095,
+      "rotation": 63,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 174.32896423339845,
+      "posZ": 19.37737274169922,
+      "rotation": 63,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 175.7246551513672,
+      "posZ": 20.074424743652345,
+      "rotation": 63,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 177.12034606933595,
+      "posZ": 20.77147674560547,
+      "rotation": 63,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 178.51531982421876,
+      "posZ": 21.469932556152345,
+      "rotation": 63,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 179.90545654296876,
+      "posZ": 22.177894592285158,
+      "rotation": 63,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 181.28431701660157,
+      "posZ": 22.907161712646486,
+      "rotation": 61,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 182.6562042236328,
+      "posZ": 23.64944076538086,
+      "rotation": 61,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.09784471988677979,
+      "posX": 184.02517700195313,
+      "posZ": 24.39713478088379,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 185.37841796875,
+      "posZ": 25.17352867126465,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2799999713897706,
+      "direction": 0.0,
+      "posX": 186.8408660888672,
+      "posZ": 26.01259994506836,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.799999713897705,
+      "direction": 0.0,
+      "posX": 188.93817138671876,
+      "posZ": 27.215925216674806,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 191.5974578857422,
+      "posZ": 28.74179458618164,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 194.3035430908203,
+      "posZ": 30.29458999633789,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 197.00962829589845,
+      "posZ": 31.84738540649414,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 199.71571350097657,
+      "posZ": 33.40018081665039,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 202.4217987060547,
+      "posZ": 34.95297622680664,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 205.1278839111328,
+      "posZ": 36.50577163696289,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9600000381469727,
+      "direction": 0.0,
+      "posX": 207.8308563232422,
+      "posZ": 38.05677032470703,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4400004148483277,
+      "direction": 0.0,
+      "posX": 210.10202026367188,
+      "posZ": 39.39524841308594,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 211.6722869873047,
+      "posZ": 40.348934173583987,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4200000762939454,
+      "direction": 0.0,
+      "posX": 213.2425537109375,
+      "posZ": 41.302642822265628,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9399995803833008,
+      "direction": 0.0,
+      "posX": 215.49591064453126,
+      "posZ": 42.67125701904297,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 218.1596221923828,
+      "posZ": 44.289039611816409,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 220.82643127441407,
+      "posZ": 45.90868377685547,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 223.4932403564453,
+      "posZ": 47.52832794189453,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 226.16004943847657,
+      "posZ": 49.147972106933597,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 228.8268585205078,
+      "posZ": 50.767616271972659,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 231.49366760253907,
+      "posZ": 52.38726043701172,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 234.1604766845703,
+      "posZ": 54.00690460205078,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 236.82728576660157,
+      "posZ": 55.626548767089847,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 239.4940948486328,
+      "posZ": 57.246192932128909,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5400004386901856,
+      "direction": 0.0,
+      "posX": 241.87771606445313,
+      "posZ": 58.69390106201172,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0200003385543824,
+      "direction": 0.0,
+      "posX": 243.571044921875,
+      "posZ": 59.72237014770508,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 244.9049072265625,
+      "posZ": 60.5313835144043,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 246.24227905273438,
+      "posZ": 61.334163665771487,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 247.6826629638672,
+      "posZ": 62.19873046875,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 249.02003479003907,
+      "posZ": 63.00151062011719,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 250.35740661621095,
+      "posZ": 63.804290771484378,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3199999332427979,
+      "direction": 0.0,
+      "posX": 251.83480834960938,
+      "posZ": 64.69109344482422,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8399996757507325,
+      "direction": 0.0,
+      "posX": 253.9615478515625,
+      "posZ": 65.96758270263672,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 256.6077880859375,
+      "posZ": 67.55589294433594,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 259.28253173828127,
+      "posZ": 69.16145324707031,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 261.957275390625,
+      "posZ": 70.76701354980469,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 264.63201904296877,
+      "posZ": 72.37257385253906,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 267.3067626953125,
+      "posZ": 73.97813415527344,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8600001335144044,
+      "direction": 0.0,
+      "posX": 269.9527893066406,
+      "posZ": 75.56644439697266,
+      "rotation": 59,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3400003910064698,
+      "direction": 0.0,
+      "posX": 272.09521484375,
+      "posZ": 76.81607818603516,
+      "rotation": 60,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.1290239840745926,
+      "posX": 273.60992431640627,
+      "posZ": 77.63716888427735,
+      "rotation": 63,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.1399999856948853,
+      "direction": 0.0,
+      "posX": 275.04974365234377,
+      "posZ": 78.32038879394531,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.6599998474121094,
+      "direction": 0.0,
+      "posX": 277.0396728515625,
+      "posZ": 79.25765228271485,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 279.7145080566406,
+      "posZ": 80.51757049560547,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5000004768371583,
+      "direction": 0.0,
+      "posX": 282.18426513671877,
+      "posZ": 81.68087768554688,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.11890850216150284,
+      "posX": 283.9183349609375,
+      "posZ": 82.5050277709961,
+      "rotation": 63,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 285.3016662597656,
+      "posZ": 83.22590637207031,
+      "rotation": 62,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 286.6838684082031,
+      "posZ": 83.94894409179688,
+      "rotation": 62,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.11999998986721039,
+      "posX": 288.0655822753906,
+      "posZ": 84.67294311523438,
+      "rotation": 61,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 289.41229248046877,
+      "posZ": 85.45992279052735,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0800000429153443,
+      "direction": 0.0,
+      "posX": 290.75640869140627,
+      "posZ": 86.27486419677735,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5999999046325684,
+      "direction": 0.0,
+      "posX": 292.5573425292969,
+      "posZ": 87.36659240722656,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 295.030517578125,
+      "posZ": 88.86578369140625,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 297.69891357421877,
+      "posZ": 90.48324584960938,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 300.3673095703125,
+      "posZ": 92.1007080078125,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 303.03570556640627,
+      "posZ": 93.71817016601563,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 305.7041015625,
+      "posZ": 95.33563232421875,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 308.37249755859377,
+      "posZ": 96.95309448242188,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.7400002479553223,
+      "direction": 0.0,
+      "posX": 310.94732666015627,
+      "posZ": 98.51390075683594,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2200003862380982,
+      "direction": 0.0,
+      "posX": 312.9083557128906,
+      "posZ": 99.7026596069336,
+      "rotation": 58,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.25999996066093447,
+      "posX": 314.2927551269531,
+      "posZ": 100.55525970458985,
+      "rotation": 56,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.7799997925758362,
+      "posX": 315.4422912597656,
+      "posZ": 101.59761810302735,
+      "rotation": 35,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.2883172929286957,
+      "posX": 316.0794677734375,
+      "posZ": 103.01300811767578,
+      "rotation": 15,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.17694717645645142,
+      "posX": 316.4023132324219,
+      "posZ": 104.5383071899414,
+      "rotation": 8,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.5806579589844,
+      "posZ": 106.0879135131836,
+      "rotation": 5,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.7393493652344,
+      "posZ": 107.6399154663086,
+      "rotation": 5,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.8980407714844,
+      "posZ": 109.1919174194336,
+      "rotation": 5,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.0567321777344,
+      "posZ": 110.7439193725586,
+      "rotation": 5,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.2077941894531,
+      "posZ": 112.29660034179688,
+      "rotation": 4,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.3263854980469,
+      "posZ": 113.85206604003906,
+      "rotation": 4,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.4382629394531,
+      "posZ": 115.40803527832031,
+      "rotation": 4,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.13850678503513337,
+      "posX": 317.51947021484377,
+      "posZ": 116.96553802490235,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.4947204589844,
+      "posZ": 118.52532196044922,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.4637756347656,
+      "posZ": 120.0850601196289,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.4328308105469,
+      "posZ": 121.6447982788086,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.4018859863281,
+      "posZ": 123.20453643798828,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.3709411621094,
+      "posZ": 124.76427459716797,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.3399963378906,
+      "posZ": 126.32401275634766,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.3090515136719,
+      "posZ": 127.88375091552735,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.2781066894531,
+      "posZ": 129.44329833984376,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.2471618652344,
+      "posZ": 131.00283813476563,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.2162170410156,
+      "posZ": 132.5623779296875,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.1852722167969,
+      "posZ": 134.12191772460938,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.1595153808594,
+      "posZ": 135.681640625,
+      "rotation": 359,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.019999999552965165,
+      "posX": 317.1404724121094,
+      "posZ": 137.2415771484375,
+      "rotation": 359,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.1200000047683716,
+      "direction": 0.0,
+      "posX": 317.1518859863281,
+      "posZ": 138.82669067382813,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.6399998664855958,
+      "direction": 0.0,
+      "posX": 317.1796569824219,
+      "posZ": 140.99490356445313,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5199999809265137,
+      "direction": 0.0,
+      "posX": 317.2135925292969,
+      "posZ": 143.6478729248047,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.268310546875,
+      "posZ": 145.59701538085938,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3600000143051148,
+      "direction": 0.0,
+      "posX": 317.33477783203127,
+      "posZ": 147.3609161376953,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8799996376037598,
+      "direction": 0.0,
+      "posX": 317.4305725097656,
+      "posZ": 149.90191650390626,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 317.54736328125,
+      "posZ": 153.00180053710938,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 317.664794921875,
+      "posZ": 156.11968994140626,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 317.7822265625,
+      "posZ": 159.23757934570313,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 317.899658203125,
+      "posZ": 162.35546875,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 318.01708984375,
+      "posZ": 165.47335815429688,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 318.134521484375,
+      "posZ": 168.59124755859376,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 318.251953125,
+      "posZ": 171.70913696289063,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 318.369384765625,
+      "posZ": 174.8270263671875,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5000004768371583,
+      "direction": 0.0,
+      "posX": 318.47222900390627,
+      "posZ": 177.5550994873047,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.5445556640625,
+      "posZ": 179.47372436523438,
+      "rotation": 2,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.13999998569488526,
+      "posX": 318.6015319824219,
+      "posZ": 181.03256225585938,
+      "rotation": 1,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.5866394042969,
+      "posZ": 182.59226989746095,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.5549011230469,
+      "posZ": 184.1518096923828,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.5231628417969,
+      "posZ": 185.7113494873047,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.4914245605469,
+      "posZ": 187.27088928222657,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.4596862792969,
+      "posZ": 188.83042907714845,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.4279479980469,
+      "posZ": 190.3899688720703,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.3962097167969,
+      "posZ": 191.9495086669922,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.3644714355469,
+      "posZ": 193.50904846191407,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.3327331542969,
+      "posZ": 195.06858825683595,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.3009948730469,
+      "posZ": 196.6281280517578,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.2692565917969,
+      "posZ": 198.1876678466797,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.2375183105469,
+      "posZ": 199.74720764160157,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.2057800292969,
+      "posZ": 201.30674743652345,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.1740417480469,
+      "posZ": 202.8662872314453,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.1423034667969,
+      "posZ": 204.4258270263672,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.1105651855469,
+      "posZ": 205.98536682128907,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.0788269042969,
+      "posZ": 207.54490661621095,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.0470886230469,
+      "posZ": 209.1044464111328,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 318.0153503417969,
+      "posZ": 210.6639862060547,
+      "rotation": 358,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.13439998030662538,
+      "posX": 317.9810485839844,
+      "posZ": 212.22349548339845,
+      "rotation": 357,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.8910217285156,
+      "posZ": 213.7809295654297,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.7950134277344,
+      "posZ": 215.3380889892578,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.6990051269531,
+      "posZ": 216.89524841308595,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.6029968261719,
+      "posZ": 218.45240783691407,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.5069885253906,
+      "posZ": 220.0095672607422,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.4109802246094,
+      "posZ": 221.5667266845703,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.3149719238281,
+      "posZ": 223.12388610839845,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.2189636230469,
+      "posZ": 224.68104553222657,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.1229553222656,
+      "posZ": 226.2382049560547,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 317.0269470214844,
+      "posZ": 227.7953643798828,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.9309387207031,
+      "posZ": 229.35252380371095,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.8349304199219,
+      "posZ": 230.90968322753907,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.7389221191406,
+      "posZ": 232.4668426513672,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.6429138183594,
+      "posZ": 234.0240020751953,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.5469055175781,
+      "posZ": 235.58116149902345,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.4508972167969,
+      "posZ": 237.13832092285157,
+      "rotation": 356,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.14089639484882356,
+      "posX": 316.3708190917969,
+      "posZ": 238.69615173339845,
+      "rotation": 359,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.3843994140625,
+      "posZ": 240.25608825683595,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.40582275390627,
+      "posZ": 241.8160400390625,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.42724609375,
+      "posZ": 243.3759765625,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.44866943359377,
+      "posZ": 244.9359130859375,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.4700927734375,
+      "posZ": 246.495849609375,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.49151611328127,
+      "posZ": 248.0557861328125,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.512939453125,
+      "posZ": 249.61572265625,
+      "rotation": 0,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.11999998986721039,
+      "posX": 316.5354309082031,
+      "posZ": 251.17564392089845,
+      "rotation": 1,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.05999999865889549,
+      "posX": 316.62725830078127,
+      "posZ": 252.73284912109376,
+      "rotation": 4,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 316.77130126953127,
+      "posZ": 254.2862548828125,
+      "rotation": 5,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.440000057220459,
+      "direction": 0.0,
+      "posX": 316.9504089355469,
+      "posZ": 256.1413879394531,
+      "rotation": 5,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9599995613098145,
+      "direction": 0.0,
+      "posX": 317.206787109375,
+      "posZ": 258.796630859375,
+      "rotation": 5,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.6800003051757813,
+      "direction": 0.0,
+      "posX": 317.4908447265625,
+      "posZ": 261.73858642578127,
+      "rotation": 5,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.1600003242492676,
+      "direction": 0.3400000035762787,
+      "posX": 317.733642578125,
+      "posZ": 263.9242858886719,
+      "rotation": 10,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.25978514552116396,
+      "posX": 318.2224426269531,
+      "posZ": 265.4352722167969,
+      "rotation": 25,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.25999996066093447,
+      "posX": 318.9755859375,
+      "posZ": 266.8005676269531,
+      "rotation": 32,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.33086326718330386,
+      "posX": 319.9732666015625,
+      "posZ": 267.99212646484377,
+      "rotation": 48,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.11447238177061081,
+      "posX": 321.2164611816406,
+      "posZ": 268.9324645996094,
+      "rotation": 56,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.35389444231987,
+      "posX": 322.552978515625,
+      "posZ": 269.7344665527344,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.25480395555496218,
+      "posX": 324.0137939453125,
+      "posZ": 270.27685546875,
+      "rotation": 74,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.25999996066093447,
+      "posX": 325.53912353515627,
+      "posZ": 270.60040283203127,
+      "rotation": 81,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.11262397468090058,
+      "posX": 327.0936279296875,
+      "posZ": 270.7157897949219,
+      "rotation": 89,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 328.653564453125,
+      "posZ": 270.72943115234377,
+      "rotation": 89,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.2799999713897705,
+      "posX": 330.2134094238281,
+      "posZ": 270.7278137207031,
+      "rotation": 92,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.10811901837587357,
+      "posX": 331.7611083984375,
+      "posZ": 270.54156494140627,
+      "rotation": 100,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 333.2957458496094,
+      "posZ": 270.2619323730469,
+      "rotation": 100,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 334.8302917480469,
+      "posZ": 269.9818420410156,
+      "rotation": 100,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 336.3648376464844,
+      "posZ": 269.7017517089844,
+      "rotation": 100,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 337.8993835449219,
+      "posZ": 269.4216613769531,
+      "rotation": 100,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.09999999403953552,
+      "posX": 339.4340515136719,
+      "posZ": 269.1421813964844,
+      "rotation": 99,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.09724052995443344,
+      "posX": 340.9824523925781,
+      "posZ": 268.958740234375,
+      "rotation": 93,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 342.5384216308594,
+      "posZ": 268.850830078125,
+      "rotation": 93,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 344.0943908691406,
+      "posZ": 268.742919921875,
+      "rotation": 93,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 345.6503601074219,
+      "posZ": 268.635009765625,
+      "rotation": 93,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 347.2082824707031,
+      "posZ": 268.5614318847656,
+      "rotation": 91,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 348.7674255371094,
+      "posZ": 268.5185852050781,
+      "rotation": 91,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 350.3265686035156,
+      "posZ": 268.4757385253906,
+      "rotation": 91,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 351.8857116699219,
+      "posZ": 268.4328918457031,
+      "rotation": 91,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.019999999552965165,
+      "posX": 353.4448547363281,
+      "posZ": 268.3900451660156,
+      "rotation": 91,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.5400000214576721,
+      "posX": 354.9956359863281,
+      "posZ": 268.2450256347656,
+      "rotation": 102,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.21773970127105714,
+      "posX": 356.4454345703125,
+      "posZ": 267.6812438964844,
+      "rotation": 117,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.4069786071777344,
+      "posX": 357.7686767578125,
+      "posZ": 266.8594055175781,
+      "rotation": 128,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.14317481219768525,
+      "posX": 358.8860168457031,
+      "posZ": 265.7734069824219,
+      "rotation": 138,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.12489668279886246,
+      "posX": 359.8598937988281,
+      "posZ": 264.555908203125,
+      "rotation": 144,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 360.7418212890625,
+      "posZ": 263.269287109375,
+      "rotation": 145,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.46000006794929507,
+      "posX": 361.5669250488281,
+      "posZ": 261.9469299316406,
+      "rotation": 153,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.17299050092697144,
+      "posX": 362.0824279785156,
+      "posZ": 260.4775390625,
+      "rotation": 165,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.3199999928474426,
+      "posX": 362.4009704589844,
+      "posZ": 258.9509582519531,
+      "rotation": 171,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.1225348636507988,
+      "posX": 362.4918518066406,
+      "posZ": 257.3949890136719,
+      "rotation": 180,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.4649963378906,
+      "posZ": 255.8351287841797,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.4356384277344,
+      "posZ": 254.27598571777345,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.4062805175781,
+      "posZ": 252.7168426513672,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.3769226074219,
+      "posZ": 251.15769958496095,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.3475646972656,
+      "posZ": 249.5985565185547,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.3182067871094,
+      "posZ": 248.03941345214845,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.2888488769531,
+      "posZ": 246.4802703857422,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.2594909667969,
+      "posZ": 244.92112731933595,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.2301330566406,
+      "posZ": 243.3619842529297,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.2007751464844,
+      "posZ": 241.80284118652345,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.1714172363281,
+      "posZ": 240.2434844970703,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.1420593261719,
+      "posZ": 238.68394470214845,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.1127014160156,
+      "posZ": 237.12440490722657,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.0833435058594,
+      "posZ": 235.5648651123047,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.0539855957031,
+      "posZ": 234.0053253173828,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 362.0246276855469,
+      "posZ": 232.44578552246095,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.9952697753906,
+      "posZ": 230.88624572753907,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.9659118652344,
+      "posZ": 229.3267059326172,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.9365539550781,
+      "posZ": 227.7671661376953,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.9071960449219,
+      "posZ": 226.20762634277345,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.8778381347656,
+      "posZ": 224.64808654785157,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.8484802246094,
+      "posZ": 223.0885467529297,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.8191223144531,
+      "posZ": 221.5290069580078,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.7897644042969,
+      "posZ": 219.96946716308595,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.7604064941406,
+      "posZ": 218.40992736816407,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.7310485839844,
+      "posZ": 216.8503875732422,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.7016906738281,
+      "posZ": 215.2908477783203,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.6723327636719,
+      "posZ": 213.73130798339845,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.6429748535156,
+      "posZ": 212.17176818847657,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.6136169433594,
+      "posZ": 210.6122283935547,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.5842590332031,
+      "posZ": 209.0526885986328,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.5549011230469,
+      "posZ": 207.49314880371095,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.5255432128906,
+      "posZ": 205.93360900878907,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.4961853027344,
+      "posZ": 204.3740692138672,
+      "rotation": 181,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.03999999910593033,
+      "posX": 361.46685791015627,
+      "posZ": 202.81451416015626,
+      "rotation": 180,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.5600000023841858,
+      "posX": 361.552001953125,
+      "posZ": 201.25965881347657,
+      "rotation": 168,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.8007314205169678,
+      "direction": -0.32229340076446535,
+      "posX": 363.6705017089844,
+      "posZ": 199.1220245361328,
+      "rotation": 141,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.473548948764801,
+      "direction": -0.1115073412656784,
+      "posX": 367.21136474609377,
+      "posZ": 196.71722412109376,
+      "rotation": 115,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.2800547480583191,
+      "direction": 0.0,
+      "posX": 369.52264404296877,
+      "posZ": 195.13645935058595,
+      "rotation": 98,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.16562308371067048,
+      "direction": 0.0,
+      "posX": 370.63140869140627,
+      "posZ": 194.37428283691407,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 0.0,
+      "posX": 370.8260803222656,
+      "posZ": 194.3000030517578,
+      "rotation": 90,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.07763183861970902,
+      "direction": 0.0,
+      "posX": 370.81854248046877,
+      "posZ": 194.29100036621095,
+      "rotation": 220,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.45451560616493227,
+      "direction": 0.0,
+      "posX": 370.5281066894531,
+      "posZ": 193.9681854248047,
+      "rotation": 220,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.677402913570404,
+      "direction": 0.0,
+      "posX": 369.90936279296877,
+      "posZ": 193.65980529785157,
+      "rotation": 220,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.8092175722122192,
+      "direction": 0.0,
+      "posX": 369.1556396484375,
+      "posZ": 192.76162719726563,
+      "rotation": 220,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.8871721625328064,
+      "direction": 0.0,
+      "posX": 368.3594970703125,
+      "posZ": 191.7421875,
+      "rotation": 220,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 367.44219970703127,
+      "posZ": 190.57623291015626,
+      "rotation": 220,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 366.43927001953127,
+      "posZ": 189.38128662109376,
+      "rotation": 220,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 365.43634033203127,
+      "posZ": 188.18634033203126,
+      "rotation": 220,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.24772605299949647,
+      "posX": 364.453369140625,
+      "posZ": 186.9754180908203,
+      "rotation": 215,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.15999998152256013,
+      "posX": 363.61669921875,
+      "posZ": 185.6595458984375,
+      "rotation": 209,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.12376067042350769,
+      "posX": 362.9370422363281,
+      "posZ": 184.25680541992188,
+      "rotation": 202,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.14705032110214234,
+      "posX": 362.4097900390625,
+      "posZ": 182.78948974609376,
+      "rotation": 196,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.10192158073186875,
+      "posX": 362.0155944824219,
+      "posZ": 181.2801971435547,
+      "rotation": 193,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 361.6639404296875,
+      "posZ": 179.76036071777345,
+      "rotation": 193,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3799999952316285,
+      "direction": 0.0,
+      "posX": 361.2607727050781,
+      "posZ": 178.01841735839845,
+      "rotation": 193,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8999996185302735,
+      "direction": 0.0,
+      "posX": 360.68017578125,
+      "posZ": 175.5107421875,
+      "rotation": 193,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 359.9791259765625,
+      "posZ": 172.48272705078126,
+      "rotation": 193,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 359.27532958984377,
+      "posZ": 169.4429931640625,
+      "rotation": 193,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 358.571533203125,
+      "posZ": 166.40325927734376,
+      "rotation": 193,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 357.86773681640627,
+      "posZ": 163.363525390625,
+      "rotation": 193,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 357.1639404296875,
+      "posZ": 160.32379150390626,
+      "rotation": 193,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5000004768371583,
+      "direction": -0.27179089188575747,
+      "posX": 356.61260986328127,
+      "posZ": 157.65126037597657,
+      "rotation": 187,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 356.4850158691406,
+      "posZ": 155.736572265625,
+      "rotation": 180,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 356.4588317871094,
+      "posZ": 154.1766357421875,
+      "rotation": 180,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 356.4326477050781,
+      "posZ": 152.61669921875,
+      "rotation": 180,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 356.4064636230469,
+      "posZ": 151.0567626953125,
+      "rotation": 180,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.019999999552965165,
+      "posX": 356.3900451660156,
+      "posZ": 149.496826171875,
+      "rotation": 180,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 356.4059753417969,
+      "posZ": 147.9368896484375,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0199999809265137,
+      "direction": 0.0,
+      "posX": 356.43060302734377,
+      "posZ": 146.37576293945313,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5399999618530274,
+      "direction": 0.0,
+      "posX": 356.4627685546875,
+      "posZ": 144.36361694335938,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 356.5078125,
+      "posZ": 141.54759216308595,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 356.55780029296877,
+      "posZ": 138.42811584472657,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 356.6077880859375,
+      "posZ": 135.3086395263672,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9000000953674317,
+      "direction": 0.0,
+      "posX": 356.657470703125,
+      "posZ": 132.20713806152345,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.380000352859497,
+      "direction": 0.0,
+      "posX": 356.6981201171875,
+      "posZ": 129.66465759277345,
+      "rotation": 179,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.36000001430511477,
+      "posX": 356.7570495605469,
+      "posZ": 127.90095520019531,
+      "rotation": 173,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.16424329578876496,
+      "posX": 357.08697509765627,
+      "posZ": 126.37879943847656,
+      "rotation": 162,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 357.5919189453125,
+      "posZ": 124.90289306640625,
+      "rotation": 160,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5,
+      "direction": 0.0,
+      "posX": 358.24249267578127,
+      "posZ": 123.06460571289063,
+      "rotation": 160,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 359.16326904296877,
+      "posZ": 120.46272277832031,
+      "rotation": 160,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.760000228881836,
+      "direction": 0.019999999552965165,
+      "posX": 360.1730041503906,
+      "posZ": 117.60965728759766,
+      "rotation": 160,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2400003671646119,
+      "direction": 0.5400000214576721,
+      "posX": 360.8138122558594,
+      "posZ": 115.37899780273438,
+      "rotation": 171,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.19999997317790986,
+      "posX": 360.801025390625,
+      "posZ": 113.74547576904297,
+      "rotation": 187,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.059999942779541,
+      "direction": 0.1016743928194046,
+      "posX": 360.4873352050781,
+      "posZ": 112.21097564697266,
+      "rotation": 194,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5799999237060547,
+      "direction": 0.0,
+      "posX": 359.9619445800781,
+      "posZ": 110.20379638671875,
+      "rotation": 194,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 359.23553466796877,
+      "posZ": 107.42930603027344,
+      "rotation": 194,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.760000228881836,
+      "direction": 0.19999997317790986,
+      "posX": 358.4599914550781,
+      "posZ": 104.50399780273438,
+      "rotation": 196,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2400003671646119,
+      "direction": 0.7199998497962952,
+      "posX": 357.5582275390625,
+      "posZ": 102.37174987792969,
+      "rotation": 214,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.6173827052116394,
+      "posX": 356.3210144042969,
+      "posZ": 101.33419036865235,
+      "rotation": 246,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.159999966621399,
+      "direction": 0.21813461184501649,
+      "posX": 354.77386474609377,
+      "posZ": 100.9318618774414,
+      "rotation": 261,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.679999828338623,
+      "direction": 0.0,
+      "posX": 352.55328369140627,
+      "posZ": 100.72515106201172,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 349.5841979980469,
+      "posZ": 100.52176666259766,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 346.4714660644531,
+      "posZ": 100.30852508544922,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 343.3587341308594,
+      "posZ": 100.09528350830078,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 340.2460021972656,
+      "posZ": 99.88204193115235,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 337.1332702636719,
+      "posZ": 99.6688003540039,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 334.0205383300781,
+      "posZ": 99.45555877685547,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 330.9078063964844,
+      "posZ": 99.24231719970703,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 327.7950744628906,
+      "posZ": 99.0290756225586,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 324.6823425292969,
+      "posZ": 98.81583404541016,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 321.5696105957031,
+      "posZ": 98.60259246826172,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 318.4568786621094,
+      "posZ": 98.38935089111328,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9200000762939454,
+      "direction": 0.0,
+      "posX": 315.3561096191406,
+      "posZ": 98.17693328857422,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4000004529953004,
+      "direction": -0.2452724575996399,
+      "posX": 312.80126953125,
+      "posZ": 97.88426208496094,
+      "rotation": 258,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.2038431465625763,
+      "posX": 311.07568359375,
+      "posZ": 97.41969299316406,
+      "rotation": 251,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 309.6241455078125,
+      "posZ": 96.84860229492188,
+      "rotation": 247,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.21999996900558473,
+      "posX": 308.18768310546877,
+      "posZ": 96.2398452758789,
+      "rotation": 245,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.30635493993759158,
+      "posX": 306.8628234863281,
+      "posZ": 95.42586517333985,
+      "rotation": 230,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.059638068079948428,
+      "posX": 305.7319641113281,
+      "posZ": 94.35276794433594,
+      "rotation": 223,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.32932132482528689,
+      "posX": 304.63232421875,
+      "posZ": 93.24696350097656,
+      "rotation": 228,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.340000033378601,
+      "direction": 0.12489493936300278,
+      "posX": 303.2259521484375,
+      "posZ": 92.21893310546875,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5799999237060547,
+      "direction": 0.019999999552965165,
+      "posX": 301.1499938964844,
+      "posZ": 90.92845916748047,
+      "rotation": 238,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.059999942779541,
+      "direction": 0.24931225180625916,
+      "posX": 299.3566589355469,
+      "posZ": 89.95362854003906,
+      "rotation": 247,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.440000057220459,
+      "direction": 0.0,
+      "posX": 297.5932922363281,
+      "posZ": 89.34190368652344,
+      "rotation": 252,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9599995613098145,
+      "direction": 0.0,
+      "posX": 295.04461669921877,
+      "posZ": 88.55426788330078,
+      "rotation": 252,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.760000228881836,
+      "direction": 0.11999998986721039,
+      "posX": 292.1536865234375,
+      "posZ": 87.66291809082031,
+      "rotation": 253,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3600003719329835,
+      "direction": 0.13428892195224763,
+      "posX": 289.875,
+      "posZ": 87.14550018310547,
+      "rotation": 261,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.880000114440918,
+      "direction": 0.0,
+      "posX": 287.35491943359377,
+      "posZ": 86.80812072753906,
+      "rotation": 262,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 284.2790832519531,
+      "posZ": 86.40697479248047,
+      "rotation": 262,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9800000190734864,
+      "direction": 0.0,
+      "posX": 281.18658447265627,
+      "posZ": 86.00365447998047,
+      "rotation": 262,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4600005149841309,
+      "direction": 0.0,
+      "posX": 278.5415954589844,
+      "posZ": 85.6586685180664,
+      "rotation": 262,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.28877782821655276,
+      "posX": 276.701904296875,
+      "posZ": 85.36803436279297,
+      "rotation": 256,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.2799999713897705,
+      "posX": 275.2170104980469,
+      "posZ": 84.89278411865235,
+      "rotation": 248,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.09999999403953552,
+      "posX": 273.8233337402344,
+      "posZ": 84.19542694091797,
+      "rotation": 239,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 272.5044860839844,
+      "posZ": 83.36246490478516,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.1999999284744263,
+      "direction": 0.0,
+      "posX": 271.1423645019531,
+      "posZ": 82.47444915771485,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.7199997901916505,
+      "direction": 0.0,
+      "posX": 269.22137451171877,
+      "posZ": 81.22205352783203,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 266.69921875,
+      "posZ": 79.57775115966797,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 264.0855712890625,
+      "posZ": 77.8738021850586,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 261.471923828125,
+      "posZ": 76.16985321044922,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 258.8582763671875,
+      "posZ": 74.46590423583985,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 256.24462890625,
+      "posZ": 72.76195526123047,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 253.6309814453125,
+      "posZ": 71.0580062866211,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 251.017333984375,
+      "posZ": 69.35405731201172,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 248.4036865234375,
+      "posZ": 67.65010833740235,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.880000114440918,
+      "direction": 0.0,
+      "posX": 245.8111572265625,
+      "posZ": 65.95993041992188,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3600003719329835,
+      "direction": 0.0,
+      "posX": 243.7071990966797,
+      "posZ": 64.5882568359375,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 242.2439727783203,
+      "posZ": 63.64009094238281,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3799999952316285,
+      "direction": 0.0,
+      "posX": 240.7410888671875,
+      "posZ": 62.671451568603519,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8999996185302735,
+      "direction": 0.0,
+      "posX": 238.57752990722657,
+      "posZ": 61.277008056640628,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 235.96522521972657,
+      "posZ": 59.59325408935547,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.5400004386901856,
+      "direction": 0.15028947591781617,
+      "posX": 233.60134887695313,
+      "posZ": 58.11442184448242,
+      "rotation": 240,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3000004291534424,
+      "direction": 0.0,
+      "posX": 231.79200744628907,
+      "posZ": 57.154361724853519,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.820000171661377,
+      "direction": 0.0,
+      "posX": 229.62051391601563,
+      "posZ": 56.02157974243164,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 226.89247131347657,
+      "posZ": 54.59855270385742,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 224.12608337402345,
+      "posZ": 53.15555191040039,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 221.3596954345703,
+      "posZ": 51.71255111694336,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 218.5933074951172,
+      "posZ": 50.26955032348633,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 215.82691955566407,
+      "posZ": 48.82655715942383,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 213.06053161621095,
+      "posZ": 47.3836555480957,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 210.2941436767578,
+      "posZ": 45.94075393676758,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 207.5277557373047,
+      "posZ": 44.49785232543945,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 204.76136779785157,
+      "posZ": 43.05495071411133,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 201.99497985839845,
+      "posZ": 41.6120491027832,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.7800002098083497,
+      "direction": -0.13999998569488526,
+      "posX": 199.3003692626953,
+      "posZ": 40.20289993286133,
+      "rotation": 241,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2600003480911255,
+      "direction": 0.0,
+      "posX": 197.28335571289063,
+      "posZ": 38.987632751464847,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 195.8934783935547,
+      "posZ": 38.091861724853519,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 194.58229064941407,
+      "posZ": 37.246829986572269,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 193.27110290527345,
+      "posZ": 36.401798248291019,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 191.9599151611328,
+      "posZ": 35.556766510009769,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 190.6487274169922,
+      "posZ": 34.711734771728519,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 189.33753967285157,
+      "posZ": 33.866703033447269,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 188.02635192871095,
+      "posZ": 33.021671295166019,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 186.7151641845703,
+      "posZ": 32.176639556884769,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 185.4039764404297,
+      "posZ": 31.331607818603517,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 184.09278869628907,
+      "posZ": 30.486576080322267,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 182.78160095214845,
+      "posZ": 29.641544342041017,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 181.46905517578126,
+      "posZ": 28.798585891723634,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 180.15350341796876,
+      "posZ": 27.960298538208009,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.440000057220459,
+      "direction": 0.0,
+      "posX": 178.58181762695313,
+      "posZ": 26.958938598632814,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9599995613098145,
+      "direction": 0.0,
+      "posX": 176.33203125,
+      "posZ": 25.525562286376954,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 173.70155334472657,
+      "posZ": 23.849651336669923,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 171.07005310058595,
+      "posZ": 22.173076629638673,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 168.4385528564453,
+      "posZ": 20.496501922607423,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 165.8070526123047,
+      "posZ": 18.819927215576173,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.6600003242492676,
+      "direction": 0.0,
+      "posX": 163.33050537109376,
+      "posZ": 17.24205207824707,
+      "rotation": 237,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.140000343322754,
+      "direction": 0.2831155061721802,
+      "posX": 161.47930908203126,
+      "posZ": 16.114309310913087,
+      "rotation": 242,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2400000095367432,
+      "direction": 0.09795253723859787,
+      "posX": 159.9376678466797,
+      "posZ": 15.45224666595459,
+      "rotation": 249,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.7599997520446778,
+      "direction": 0.0,
+      "posX": 157.73020935058595,
+      "posZ": 14.630072593688965,
+      "rotation": 249,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 154.88058471679688,
+      "posZ": 13.568711280822754,
+      "rotation": 249,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.640000343322754,
+      "direction": -0.12386302649974823,
+      "posX": 152.152099609375,
+      "posZ": 12.543439865112305,
+      "rotation": 248,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.1200003623962403,
+      "direction": 0.0,
+      "posX": 150.18006896972657,
+      "posZ": 11.719620704650879,
+      "rotation": 247,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.1799999475479127,
+      "direction": 0.0,
+      "posX": 148.67588806152345,
+      "posZ": 11.086687088012696,
+      "rotation": 247,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3799999952316285,
+      "direction": 0.0,
+      "posX": 146.6705322265625,
+      "posZ": 10.242929458618164,
+      "rotation": 247,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.3227517306804657,
+      "posX": 145.07083129882813,
+      "posZ": 9.499958992004395,
+      "rotation": 239,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.11166592687368393,
+      "posX": 143.79220581054688,
+      "posZ": 8.608269691467286,
+      "rotation": 231,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3199999332427979,
+      "direction": 0.0,
+      "posX": 142.44569396972657,
+      "posZ": 7.5329718589782719,
+      "rotation": 231,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.8399996757507325,
+      "direction": 0.0,
+      "posX": 140.50833129882813,
+      "posZ": 5.984093189239502,
+      "rotation": 231,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 138.09751892089845,
+      "posZ": 4.056765079498291,
+      "rotation": 231,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9600000381469727,
+      "direction": 0.0,
+      "posX": 135.66323852539063,
+      "posZ": 2.1106855869293215,
+      "rotation": 231,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4400004148483277,
+      "direction": 0.1731334775686264,
+      "posX": 133.56881713867188,
+      "posZ": 0.5108654499053955,
+      "rotation": 236,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4400004148483277,
+      "direction": 0.0,
+      "posX": 131.83428955078126,
+      "posZ": -0.5692386031150818,
+      "rotation": 238,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9600000381469727,
+      "direction": 0.0,
+      "posX": 129.5520477294922,
+      "posZ": -1.9503670930862427,
+      "rotation": 238,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9600000381469727,
+      "direction": 0.0,
+      "posX": 126.88695526123047,
+      "posZ": -3.5631754398345949,
+      "rotation": 238,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4400004148483277,
+      "direction": 0.19537630677223206,
+      "posX": 124.60173797607422,
+      "posZ": -4.875949382781982,
+      "rotation": 243,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.15359997749328614,
+      "posX": 122.91998291015625,
+      "posZ": -5.614375591278076,
+      "rotation": 248,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.19537630677223206,
+      "posX": 121.44310760498047,
+      "posZ": -6.114418029785156,
+      "rotation": 255,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.2799999713897706,
+      "direction": 0.0,
+      "posX": 119.79666900634766,
+      "posZ": -6.4758758544921879,
+      "rotation": 258,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.799999713897705,
+      "direction": 0.0,
+      "posX": 117.42615509033203,
+      "posZ": -6.9526472091674809,
+      "rotation": 258,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 114.49564361572266,
+      "posZ": -7.542072772979736,
+      "rotation": 258,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.880000114440918,
+      "direction": 0.0,
+      "posX": 111.46157836914063,
+      "posZ": -8.152408599853516,
+      "rotation": 258,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3600003719329835,
+      "direction": 0.4800000786781311,
+      "posX": 108.98294830322266,
+      "posZ": -8.542778015136719,
+      "rotation": 267,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.3600003719329835,
+      "direction": 0.18019840121269227,
+      "posX": 107.0741958618164,
+      "posZ": -8.38976001739502,
+      "rotation": 279,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.880000114440918,
+      "direction": 0.0,
+      "posX": 104.5883560180664,
+      "posZ": -7.856125831604004,
+      "rotation": 282,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 101.5641860961914,
+      "posZ": -7.165657997131348,
+      "rotation": 282,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 98.52246856689453,
+      "posZ": -6.471184730529785,
+      "rotation": 282,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 95.48075103759766,
+      "posZ": -5.776711463928223,
+      "rotation": 282,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 92.43903350830078,
+      "posZ": -5.08223819732666,
+      "rotation": 282,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 90.3917236328125,
+      "posZ": -4.614864826202393,
+      "rotation": 282,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 88.87086486816406,
+      "posZ": -4.267727375030518,
+      "rotation": 282,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.3057647943496704,
+      "posX": 87.33973693847656,
+      "posZ": -3.974644660949707,
+      "rotation": 275,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.10578875988721848,
+      "posX": 85.78147888183594,
+      "posZ": -3.928598403930664,
+      "rotation": 268,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 84.22212982177735,
+      "posZ": -3.974944829940796,
+      "rotation": 268,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 82.66278839111328,
+      "posZ": -4.021759033203125,
+      "rotation": 268,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 81.10344696044922,
+      "posZ": -4.068572998046875,
+      "rotation": 268,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 79.54410552978516,
+      "posZ": -4.115386962890625,
+      "rotation": 268,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 77.9847640991211,
+      "posZ": -4.162200927734375,
+      "rotation": 268,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 76.42542266845703,
+      "posZ": -4.209014892578125,
+      "rotation": 268,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": -0.10192158073186875,
+      "posX": 74.86626434326172,
+      "posZ": -4.260617733001709,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 73.3086929321289,
+      "posZ": -4.346158981323242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 71.75113677978516,
+      "posZ": -4.431852340698242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 70.1935806274414,
+      "posZ": -4.517545700073242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 68.63602447509766,
+      "posZ": -4.603239059448242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 67.0784683227539,
+      "posZ": -4.688932418823242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 65.52091217041016,
+      "posZ": -4.774625778198242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 63.96335220336914,
+      "posZ": -4.860319137573242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 62.40578842163086,
+      "posZ": -4.946012496948242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 60.84823226928711,
+      "posZ": -5.031705856323242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 59.29067611694336,
+      "posZ": -5.117399215698242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 57.73311996459961,
+      "posZ": -5.203092575073242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 56.17556381225586,
+      "posZ": -5.288785934448242,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 54.67186737060547,
+      "posZ": -5.617099761962891,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 53.14350891113281,
+      "posZ": -5.895559310913086,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 51.59914779663086,
+      "posZ": -6.100307941436768,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 50.04482650756836,
+      "posZ": -6.2300944328308109,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 48.48727035522461,
+      "posZ": -6.31605339050293,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 46.92971420288086,
+      "posZ": -6.40174674987793,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 45.37215805053711,
+      "posZ": -6.48744010925293,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 43.81460189819336,
+      "posZ": -6.57313346862793,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 42.25704574584961,
+      "posZ": -6.65882682800293,
+      "rotation": 266,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.07999999821186066,
+      "posX": 40.69947052001953,
+      "posZ": -6.744202136993408,
+      "rotation": 267,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.11510477960109711,
+      "posX": 39.1405143737793,
+      "posZ": -6.731968879699707,
+      "rotation": 273,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 37.5848388671875,
+      "posZ": -6.616161346435547,
+      "rotation": 274,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.440000057220459,
+      "direction": 0.0,
+      "posX": 35.72651290893555,
+      "posZ": -6.475984573364258,
+      "rotation": 274,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9599995613098145,
+      "direction": 0.0,
+      "posX": 33.06644821166992,
+      "posZ": -6.2753424644470219,
+      "rotation": 274,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 2.0,
+      "direction": 0.0,
+      "posX": 29.956504821777345,
+      "posZ": -6.040771484375,
+      "rotation": 274,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.6600003242492676,
+      "direction": 0.0,
+      "posX": 27.02842140197754,
+      "posZ": -5.819924354553223,
+      "rotation": 274,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.140000343322754,
+      "direction": 0.23999996483325959,
+      "posX": 24.8670711517334,
+      "posZ": -5.646181106567383,
+      "rotation": 276,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.15912087261676789,
+      "posX": 23.31867218017578,
+      "posZ": -5.317373752593994,
+      "rotation": 286,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.4800000190734864,
+      "direction": 0.0,
+      "posX": 21.497543334960939,
+      "posZ": -4.709641456604004,
+      "rotation": 288,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.9999995231628419,
+      "direction": 0.0,
+      "posX": 18.914663314819337,
+      "posZ": -3.825636863708496,
+      "rotation": 288,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.6000003814697266,
+      "direction": 0.0,
+      "posX": 16.201148986816408,
+      "posZ": -2.8969688415527345,
+      "rotation": 288,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.080000400543213,
+      "direction": 0.3840000331401825,
+      "posX": 14.258350372314454,
+      "posZ": -2.171978235244751,
+      "rotation": 295,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.13285668194293977,
+      "posX": 12.91476058959961,
+      "posZ": -1.368515133857727,
+      "rotation": 304,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.0,
+      "posX": 11.649945259094239,
+      "posZ": -0.4555398225784302,
+      "rotation": 305,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.5000000596046448,
+      "posX": 10.439033508300782,
+      "posZ": 0.5249851942062378,
+      "rotation": 315,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.23626269400119782,
+      "posX": 9.536053657531739,
+      "posZ": 1.790809154510498,
+      "rotation": 331,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 1.0,
+      "direction": 0.11999998986721039,
+      "posX": 8.865701675415039,
+      "posZ": 3.198773145675659,
+      "rotation": 336,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.8337478041648865,
+      "direction": 0.6399999260902405,
+      "posX": 8.405989646911621,
+      "posZ": 4.631477355957031,
+      "rotation": 352,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.4930747151374817,
+      "direction": 1.019999623298645,
+      "posX": 8.505651473999024,
+      "posZ": 5.613156795501709,
+      "rotation": 26,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.2916021943092346,
+      "direction": 1.019999623298645,
+      "posX": 8.909354209899903,
+      "posZ": 6.030589580535889,
+      "rotation": 66,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.1724521815776825,
+      "direction": 1.019999623298645,
+      "posX": 9.250746726989746,
+      "posZ": 6.067558765411377,
+      "rotation": 106,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.10198742151260376,
+      "direction": 1.019999623298645,
+      "posX": 9.419907569885254,
+      "posZ": 5.955171585083008,
+      "rotation": 145,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 1.019999623298645,
+      "posX": 9.423263549804688,
+      "posZ": 5.9501953125,
+      "rotation": 185,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 1.019999623298645,
+      "posX": 9.423263549804688,
+      "posZ": 5.9501953125,
+      "rotation": 225,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 1.019999623298645,
+      "posX": 9.423263549804688,
+      "posZ": 5.9501953125,
+      "rotation": 265,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 1.019999623298645,
+      "posX": 9.423263549804688,
+      "posZ": 5.9501953125,
+      "rotation": 305,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 1.019999623298645,
+      "posX": 9.423263549804688,
+      "posZ": 5.9501953125,
+      "rotation": 344,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 1.019999623298645,
+      "posX": 9.423263549804688,
+      "posZ": 5.9501953125,
+      "rotation": 24,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 1.019999623298645,
+      "posX": 9.423263549804688,
+      "posZ": 5.9501953125,
+      "rotation": 64,
+      "lerpTime": 0.5
+    },
+    {
+      "speed": 0.0,
+      "direction": 1.019999623298645,
+      "posX": 9.423263549804688,
+      "posZ": 5.9501953125,
+      "rotation": 104,
+      "lerpTime": 0.5
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Chat Lane</title>
+  </head>
+  <body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"></script>
+  <script>
+    var socket = io.connect("http://localhost:4019", {
+      transports: ["websocket"],
+      query: {
+        authToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNWRjMjZjMDFkNTgxYzcyZDBhM2MxNzI1IiwiZW1haWwiOm51bGwsInVzZXJfbmFtZSI6IkxSR1VFU1QtNzI0NyIsImlhdCI6MTU3NTg3NTQzMn0.7tdSTNM9_oan2mHQsXrkG8Z4amJlGVqFVl1FVyr_dvQ"
+      }
+    });
+
+      socket.emit(
+        "join",
+        {
+          playerId: "5dc26c01d581c72d0a3c1725",
+          room_type : "open"
+        },
+        function(MEJOIN) {
+          console.log({MEJOIN});
+        }
+      );
+
+    
+
+    socket.on("PlayerJoined", function(PlayerJoined) {
+      console.log({ PlayerJoined });
+    });
+
+    socket.on("AiPlayerJoined", function(AiPlayerJoined) {
+      console.log({ AiPlayerJoined });
+    });
+  </script>
+</html>
