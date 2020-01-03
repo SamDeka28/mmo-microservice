@@ -1,0 +1,101 @@
+version: "2.1"
+
+services:
+  webserver:
+    build:
+      context: ./webserver.app
+      dockerfile: Dockerfile
+    image: lr-web
+    container_name: Webserver
+    restart: unless-stopped
+    environment:  
+      WAIT_HOSTS : db:27017
+    ports:
+      - "3000:3000"
+    depends_on:
+      - db
+    links:
+      - db
+
+    volumes:
+      - ./webserver.app:/usr/src/app
+      - ./webserver.app/node_modules:/usr/src/app/node_modules
+    networks:
+      - app-network
+  gameserver1:
+    build:
+      context: ./gameserver-friendly.app
+      dockerfile: Dockerfile 
+    image: lr-gameserver/playwithfriends
+    container_name: playwithfriends
+    restart: unless-stopped
+    environment:  
+      WAIT_HOSTS : db:27017
+    ports:
+      - "3001:3001"
+    depends_on:
+      - db
+    links:
+      - db
+
+    volumes:
+      - ./gameserver-friendly.app:/usr/src/app
+      - ./gameserver-friendly.app/node_modules:/usr/src/app/node_modules
+    networks:
+      - app-network    
+  gameserver2:
+    build:
+      context: ./gameserver-online.app
+      dockerfile: Dockerfile
+    image: lr-gameserver/playonline
+    container_name: playonline
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      - MONGO_HOSTNAME=db
+      - MONGO_PORT=$MONGO_PORT
+      - MONGO_DB=$MONGO_DB
+    environment:  
+      WAIT_HOSTS : db:27017
+    ports:
+      - "3002:3002"
+    depends_on:
+      - db
+    links:
+      - db
+
+    volumes:
+      - ./gameserver-online.app:/usr/src/app
+      - ./gameserver-online.app/node_modules:/usr/src/app/node_modules
+    networks:
+      - app-network
+  db:
+    image: mongo
+    container_name: laserrundb
+    restart: unless-stopped
+    volumes:
+      - dbdata:/data/db
+    networks:
+      - app-network
+  nginx : 
+    build :
+      context: ./nginx-laserrun
+      dockerfile: Dockerfile
+    image: lr-nginx
+    ports:
+      - 4000:80
+    container_name: nginx-laserrun
+    depends_on: 
+      - webserver
+      - gameserver1
+      - gameserver2
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  dbdata:
+  node_modules:

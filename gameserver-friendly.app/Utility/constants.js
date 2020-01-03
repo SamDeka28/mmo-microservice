@@ -1,0 +1,87 @@
+module.exports = {
+    GAME: { MAX_PLAYER: 3 },
+    TIMERS_CONST: {
+        JOINING_COUNTDOWN_TIMER_END: 10, //sec
+        RACE_COUNTDOWN_TIMER_END: 1, //sec
+        JOINING_COUNTDOWN_TIMER_OPEN_ROOM: 10,
+        AI_SYNC_INTERVAL: 0.5,
+        SPAWN_AI_AT: 2
+    },
+    AI_TRACKS: {
+        PARIS: {
+            // "p1": require("../AI_Track_Json/AITrack0.json"),
+            // "p2": require("../AI_Track_Json/AITrack1.json"),
+            "p3": require("../AI_Track_Json/AITrackWithCheckpoints.json"),
+            "p4": require("../AI_Track_Json/AITrackWithCheckpoints.json"),
+            'p5': require("../AI_Track_Json/AITrackWithCheckpoints.json"),
+            "p6": require("../AI_Track_Json/AITrackWithCheckpoints.json")
+        }
+    },
+    SOCKET: {
+        EVENTS: {
+            JOIN: 'join',
+            CREATE: 'create',
+            SYNC_POSITION: 'SyncPosition',
+            DISCONNECT: 'disconnect',
+            LEAVE_ROOM: 'LeaveRoom',
+            JOINING_COUNTDOWN: 'JoiningCountdown',
+            START_MATCH: 'StartMatch',
+            RACE_START_COUNTDOWN: 'RaceStartCountdown',
+            START_RACE: 'StartRace',
+            REFRESH_GAME_ROOM_LIST: 'RefreshGameRoomList',
+            PLAYER_JOINED: 'PlayerJoined'
+        }
+    },
+    AI_NAMES: [
+        "Jean Crystal",
+        "Nga Traywick",
+        "Mariana Krebs",
+        "Renna Dominquez",
+        "Olen Mancino",
+        "Chun Figura",
+        "Kiesha Delosh",
+        "Freida Delao",
+        "Denese Millay",
+        "Karissa Whitsitt",
+        "Nick Knowles",
+        "Cindie Raper",
+        "Evelina Parodi",
+        "Babara Deasy",
+        "Odessa Mone",
+        "Tynisha Athens",
+        "Elaine Spevak",
+        "Jackeline Thill",
+        "Monique Pablo",
+        "Adrien Gendron",
+        "Brendan Hyre",
+        "Jaqueline Eddie",
+        "Felisha Thedford",
+        "Jimmie Farish",
+        "Terry Peets",
+        "Ceola Mcclaran",
+        "Judy Lettieri",
+        "Adeline Dorsch",
+        "Corinna Hamer",
+        "Kenyatta Haig",
+        "Kacie Coursey",
+        "Weldon Marten",
+        "Elroy Cloer",
+        "Ivelisse Sjogren",
+        "Caitlin Caffee",
+        "Micha Bourbon",
+        "Leeanne Marlin",
+        "Shayna Settles",
+        "Hisako Gremillion",
+        "Mia Halcomb",
+        "Carmelo Ramsdell",
+        "Charmaine Kerwin",
+        "Isobel Pettaway",
+        "Denisha Cadorette",
+        "Lili Wilfong",
+        "Homer Uzzle",
+        "Leonora Scheffler",
+        "Salvatore Sealey",
+        "Carmen Hahn",
+        "Deanna Burcham",
+    ]
+}
